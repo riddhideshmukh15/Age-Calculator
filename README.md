@@ -15,3 +15,7 @@ A simple Python project that calculates your age based on your birth year.
 
 ```bash
 python age_calculator.py
+
+👩‍💻 Author
+
+Riddhi Deshmukh
