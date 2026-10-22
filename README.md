@@ -1,21 +1,35 @@
 # 🎂 Age Calculator
 
-A simple Python project that calculates your age based on your birth year.
+## 📌 About the Project
+The Age Calculator is a beginner-friendly Python project that calculates a person's age based on their birth year. It also displays the current year, approximate age in months and days, and allows users to calculate again.
 
 ## ✨ Features
-- Takes birth year as input
-- Calculates current age
-- Beginner-friendly and easy to use
+- Calculates age using the current year
+- Displays birth year and current year
+- Shows approximate age in months and days
+- Validates invalid birth years
+- Handles non-numeric input
+- Allows multiple calculations
+- Simple and user-friendly interface
 
-## 🛠️ Technologies
-- Python 3
+## 🛠️ Technologies Used
+- Python
 - `datetime` module
 
-## ▶️ Run the Project
+## ▶️ How to Use
+1. Run the Python program.
+2. Enter your birth year.
+3. View your age details.
+4. Choose whether to calculate again.
 
-```bash
-python age_calculator.py
+## 📚 What I Learned
+- Using Python's `datetime` module
+- Working with loops and conditional statements
+- Handling errors with `try-except`
+- Taking user input and displaying output
+- Validating user input
 
-👩‍💻 Author
+## 👩‍💻 Author
+**Riddhi Deshmukh**
 
-Riddhi Deshmukh
+*Learning Python one project at a time!*
