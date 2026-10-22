@@ -32,4 +32,4 @@ The Age Calculator is a beginner-friendly Python project that calculates a perso
 ## 👩‍💻 Author
 **Riddhi Deshmukh**
 
-*Learning Python one project at a time!*
+
